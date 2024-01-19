@@ -2,6 +2,9 @@
 In homework I1 you will use third-party machine learning APIs and in the group project you will develop your own APIs. In this lab, you will experiment with both, connecting to the Azure Vision API and providing your own API endpoint. 
 To receive credit for this lab, show your work to the TA during recitation.
 
+# Credentials
+Put your endpoint in the first line of credentials.txt and your key in the second line of credentials.txt
+
 ## Deliverables
 - [ ] Create an account and connect to the Azure Vision API
 - [ ] Explain to the TA why hard-coding credentials is a bad idea. Commit your code to GitHub without committing your credentials.
