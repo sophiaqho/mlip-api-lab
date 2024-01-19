@@ -6,8 +6,6 @@ import time
 credentialFile = open('credentials.txt', 'r')
 endpoint = credentialFile.readline().rstrip()
 key = credentialFile.readline().rstrip()
-# endpoint = "https://pitt.cognitiveservices.azure.com/"
-# key = "818013edb1e2490599ae3d5adc8523b3"
 
 credentials = CognitiveServicesCredentials(key)
 
